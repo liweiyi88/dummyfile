@@ -9,7 +9,7 @@ Dummyfile is a cli tool/package for creting a fixed-size dummy file with random 
 ## Usage
 
 ### Install as package
-`go get -u github.com/liweiyi88/dummyfile`
+`go get -u github.com/liweiyi88/dummyfile/dummyfile`
 
 Then use it in your code
 ```

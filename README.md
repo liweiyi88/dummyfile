@@ -4,7 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/liweiyi88/dummyfile)](https://goreportcard.com/report/github.com/liweiyi88/dummyfile)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/liweiyi88/dummyfile/blob/main/LICENSE.md)
 
-Dummyfile is a cli tool/package for creting a fixed-size dummy file with random contents.
+Dummyfile is a cli tool/package for creating a fixed-size dummy file with random contents.
 
 ## Usage
 
